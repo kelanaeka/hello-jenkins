@@ -1,1 +1,1 @@
-mocha ..\test\test.js
+mocha .\test\test.js
